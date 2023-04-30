@@ -1,0 +1,23 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Practicing node, express mangoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramin-Farhadi/natours.git"
+  },
+  "author": "Ramin Farhadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramin-Farhadi/natours/issues"
+  },
+  "homepage": "https://github.com/Ramin-Farhadi/natours#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
